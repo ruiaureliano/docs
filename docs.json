@@ -13,12 +13,7 @@
 			{
 				"dropdown": "April 2025",
 				"icon": "calendar",
-				"pages": ["quickstart", "development"]
-			},
-			{
-				"dropdown": "March 2025",
-				"icon": "calendar",
-				"pages": ["2025/05/25/introduction"]
+				"pages": ["2025/04/25/swift-6-2-concurrency-changes"]
 			}
 		]
 	},
