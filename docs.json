@@ -13,12 +13,12 @@
 			{
 				"dropdown": "April 2025",
 				"icon": "calendar",
-				"pages": ["2025/04/03", "2025/04/02", "2025/04/01"]
+				"pages": ["2025/05/25/introduction"]
 			},
 			{
 				"dropdown": "March 2025",
 				"icon": "calendar",
-				"pages": ["2025/03/03", "2025/03/02", "2025/03/01"]
+				"pages": ["2025/05/25/introduction"]
 			}
 		]
 	},
